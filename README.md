@@ -1,5 +1,6 @@
 
-![Banner](https://github.com/mduranm05/mduranm05/blob/main/banner.png)
+![Banner](<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/9cc81018-a248-4291-9dbc-ea8c785002a7" />
+)
 
 # 👋 ¡Hola! Soy **Michael José Durán Medina**
 ### 💻 Full Stack Developer | Python | JavaScript | React | SQL  
